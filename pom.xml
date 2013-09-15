@@ -29,9 +29,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:bednar/JSON2.js.git</connection>
-        <developerConnection>scm:git:git@github.com:bednar/JSON2.js.git</developerConnection>
-        <url>git@github.com:bednar/JSON2.js.git</url>
+        <connection>scm:git:git@github.com:bednar/Pure.git</connection>
+        <developerConnection>scm:git:git@github.com:bednar/Pure.git</developerConnection>
+        <url>git@github.com:bednar/Pure.git</url>
     </scm>
 
     <developers>
