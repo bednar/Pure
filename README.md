@@ -18,8 +18,8 @@
 
 ### Reference in HTML
 
-    <script src="lib/pure.css" type="text/javascript"></script>
-    <script src="lib/pure.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="lib/pure.css">
+    <link rel="stylesheet" href="lib/pure.min.js">
     
 ### Repository
 
