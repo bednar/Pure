@@ -19,7 +19,7 @@
 ### Reference in HTML
 
     <link rel="stylesheet" href="lib/pure.css">
-    <link rel="stylesheet" href="lib/pure.min.js">
+    <link rel="stylesheet" href="lib/pure.min.css">
     
 ### Repository
 
